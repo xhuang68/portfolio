@@ -1,0 +1,15 @@
+---
+layout: default
+img: HNApp.jpg
+category: Services
+title: HNClient:<br>iOS Hacker News Client App
+postlink:
+  - title: GitHub
+    icon: github
+    url: https://github.com/xhuang68/HackerNewsApp_Swift1.2
+  - title: AppStore
+    icon: apple
+    url: /WoofMeow
+description: |
+---
+  HNClient is a well designed iOS application for Hacker News. Login, upvote, comment, full screen web view and cool animations are all included. Try it right now!

@@ -1,0 +1,37 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://xiaohuang.me
+title: Xiao
+email: henryhuang1989@gmail.com
+author: Xiao Huang
+description: > # "Write an awesome description for your new site here.
+  You can edit this line in _config.yml. It will appear in your document
+  head meta (for Google search results) and in your feed.xml site
+  description."
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: GitHub
+    icon: github
+    url: https://github.com/xhuang68
+
+  - title: weibo
+    icon: weibo
+    url: http://weibo.com/henryhuang1989
+
+  - title: twitter
+    icon: twitter
+    url: https://twitter.com/iHenryhuang

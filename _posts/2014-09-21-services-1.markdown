@@ -1,0 +1,16 @@
+---
+layout: default
+img: DNApp.png
+category: Services
+title: DNClient:<br>iOS Designer News Client App
+postlink:
+  - title: GitHub
+    icon: github
+    url: https://github.com/xhuang68/DesignerNewsApp_Swift1.2
+  - title: AppStore
+    icon: apple
+    url: /WoofMeow
+
+description: |
+---  
+  DNClient is a well designed iOS application for Designer News where you can find many high quality design articles. Login, upvote, comment, full screen web view and cool animations are all included. Try it right now!

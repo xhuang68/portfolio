@@ -1,0 +1,14 @@
+---
+layout: default
+img: Demos.png
+category: Services
+title: Demos:<br>iOS Animation Demos on GitHub
+postlink:
+  - title: GitHub
+    icon: github
+    url: https://github.com/xhuang68/ios_animations
+description: |
+---
+  These are some cool animation demos I did in my free time. All are open source on GitHub. Please go to GitHub to see more details.   
+
+  > Don't reinvent the wheel, just realign it.

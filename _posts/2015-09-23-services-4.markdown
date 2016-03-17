@@ -1,0 +1,15 @@
+---
+layout: default
+img: blogwebapp.jpg
+category: Services
+title: BlogWebApp:<br>Python Blog Web Application
+postlink:
+  - title: GitHub
+    icon: github
+    url: https://github.com/xhuang68/blogwebapp
+  - title: Website
+    icon: chrome
+    url: http://xiaohuang.work
+description: |
+---
+  BlogWebApp is a full function blog website including writing blogs, user login, comment and backend management. BlogWebApp is implemented in Python3 with well designed web page view. Download and deploy it as your own blog master.
